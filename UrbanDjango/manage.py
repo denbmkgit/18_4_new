@@ -20,3 +20,11 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+
+'''
+
+ python UrbanDjango/manage.py runserver
+ python manage.py runserver
+'''
