@@ -27,4 +27,6 @@ if __name__ == '__main__':
 
  python UrbanDjango/manage.py runserver
  python manage.py runserver
+ 
+ python manage.py startapp task3
 '''

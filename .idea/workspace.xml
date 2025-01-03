@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60d9ffca-48c6-4ff7-9dac-7c8bc65b2fed" name="Changes" comment="18_1_new">
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/second_task/class_template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/second_task/class_template_url.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/second_task/func_template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="60d9ffca-48c6-4ff7-9dac-7c8bc65b2fed" name="Changes" comment="18_2_new">
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/first_dop_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/main_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/second_dop_page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
@@ -37,7 +36,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/denbmkgit/18_1_new.git",
+    "url": "https://github.com/denbmkgit/18_2_new.git",
     "accountId": "e1641643-5d99-4f26-badc-661c48bbe3e3"
   }
 }]]></component>
@@ -90,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735849356392</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="18_2_new">
+      <option name="closed" value="true" />
+      <created>1735857976318</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735857976318</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="18_1_new" />
-    <option name="LAST_COMMIT_MESSAGE" value="18_1_new" />
+    <MESSAGE value="18_2_new" />
+    <option name="LAST_COMMIT_MESSAGE" value="18_2_new" />
   </component>
 </project>
