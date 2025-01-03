@@ -1,3 +1,5 @@
+{% extends "menu.html" %}
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,7 +7,12 @@
     <title>{{ games }}</title>
 </head>
 <body>
+{% block pagename %}
+    <h1>Игры</h1>
+{% endblock %}
 
+{% block main_menu %}
+{{ block.super }}
     <ul>
         {% for i in list %}
             <li>
@@ -13,9 +20,9 @@
             </li>
         {% endfor %}
     </ul>
-
     <form action="/" method="get">
         <button type="submit">Вернуться обратно</button>
     </form>
+{% endblock %}
 </body>
 </html>

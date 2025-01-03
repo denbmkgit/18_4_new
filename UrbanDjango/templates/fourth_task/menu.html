@@ -2,9 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+
+<!--      block pagename-->
+    <title>{{title}}</title>
 </head>
 <body>
-
+{% block pagename %}
+    <h1>Главная страница</h1>
+{% endblock %}
+    {% block main_menu %}
+    <ul>
+        <h3><a href="#">Главная</a></h3>
+        <h3><a href="http://127.0.0.1:8000/games/">Магазин</a></h3>
+        <h3><a href="http://127.0.0.1:8000/basket/">Корзина</a></h3>
+    </ul>
+    {% endblock %}
 </body>
 </html>

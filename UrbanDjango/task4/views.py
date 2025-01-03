@@ -19,3 +19,7 @@ def page_games(request):
         'list': list,
     }
     return render(request, 'first_dop_page.html', context)
+
+def basket(request):
+    return render(request, 'second_dop_page.html')
+
